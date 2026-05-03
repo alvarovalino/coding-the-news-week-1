@@ -6,6 +6,6 @@ This is just a test
 A paragraph within a **new section**
 ### A third-level heading
 A paragraph within the third-level section
-> This text includes a quuote
+> This text includes a quote
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Octocat mascot smiling and raising a tentacle in a simple digital illustration on a white background.](https://myoctocat.com/assets/images/base-octocat.svg)
