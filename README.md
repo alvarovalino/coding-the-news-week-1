@@ -9,7 +9,3 @@ I'm learning to code at CUNY. You can reach me at [your.email@journalism.cuny.co
 ### Reach me
 
 This is a just a test
-
-### Another test
-
-Another paragraph under a third level head
